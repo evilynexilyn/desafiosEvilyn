@@ -1,0 +1,20 @@
+body{
+    background-color: azure;
+    font-size: 20x;
+}
+button{
+    font-size: 20px;
+    background-color:white;
+    border-radius: 15px;
+}
+.btn{
+    padding: 30x;
+    margin: 20px;
+
+}
+div{
+    
+    margin: 20px;
+    border-radius: 20px;
+    background-color:lightblue;
+}

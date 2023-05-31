@@ -1,0 +1,28 @@
+body{
+    background-color:white;
+    font-size: 20px;
+  }
+  
+  button{
+      font-size: 15px;
+      background-color:beige;
+      border-radius: 15px;
+  }
+  div{
+   
+    text-align: center;
+    padding: 15px;
+    margin: 170px;
+    border-radius: 20px;
+  }
+  .btn{
+      padding: 20px;
+      margin: 15px;
+  }
+  
+  nav{
+      background-color: aquamarine;
+      padding: 15px;
+      margin: 170px;
+      border-radius: 20px;
+  }

@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+    font-size: 20px;
+}
+button{
+    border-radius: 15px;
+    font-size: 15px;
+
+}
+.btn{
+    padding: 15px;
+    margin: 10px;
+}

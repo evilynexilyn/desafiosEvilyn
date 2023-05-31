@@ -1,0 +1,21 @@
+body{
+    font-size: 20px;
+    background-color: aquamarine;
+}
+
+div{
+    text-align: center;
+    padding: 15px;
+    margin: 170px;
+    border-radius: 20px;
+}
+
+button{
+    border-radius: 15px;
+    font-size: 15px;
+    background-color: rgba(252, 43, 0, 0.863);
+}
+.btn{
+    padding: 20px;
+    margin: 15px;
+}

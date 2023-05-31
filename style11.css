@@ -1,0 +1,19 @@
+body{
+    padding: 40x;
+    margin: 35px;
+    background-color: black;
+    font-size: 20px;
+    color: aliceblue;
+
+}
+
+button{
+    border-radius: 15px;
+    background-color:white;
+    font-size: 15px;
+}
+div{
+    border-radius: 15px;
+    background-color:cornflowerblue;
+    text-align: center;
+}
